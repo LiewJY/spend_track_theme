@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Style {
+class AppStyle {
   static const paddingHorizontal = EdgeInsets.symmetric(horizontal: 16.0);
   static const sizedBoxSpace = SizedBox(height: 24);
   static ButtonStyle fullWidthButton =
