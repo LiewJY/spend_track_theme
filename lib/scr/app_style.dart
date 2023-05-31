@@ -14,4 +14,5 @@ class AppStyle {
       EdgeInsets.symmetric(horizontal: 20.0, vertical: 32);
   static const dtHeader = TextStyle(fontWeight: FontWeight.w600, fontSize: 14);
   static const dtButonHorizontalPadding = EdgeInsets.symmetric(horizontal: 10);
+  static const dialogMaxWidth = BoxConstraints(maxWidth: 500);
 }
