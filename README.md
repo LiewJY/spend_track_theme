@@ -11,24 +11,26 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-This is a theme file for an upcoming a flutter expenses management mobile application.
+This is a theme file for an upcoming flutter expenses management mobile application.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Theming flutter mobile application with material 3 color pallet.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Add this package to your pubspec.yaml file of flutter project.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Add the code below to pubspec.ymal and run "flutter pub get" at terminal.
 
-```dart
-const like = 'sample';
+```ymal
+track_theme:
+    git:
+      url: https://github.com/LiewJY/track_theme.git
+      ref:
+        main
 ```
 
 
