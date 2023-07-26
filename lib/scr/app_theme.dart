@@ -14,7 +14,7 @@ class AppTheme {
       scaffoldBackgroundColor: colorScheme.background,
       //highlightColor: Colors.transparent,
       //focusColor: focusColor,
-debugShowCheckedModeBanner: false,Ï
+debugShowCheckedModeBanner: false,
       //input field --> text, & others
       inputDecorationTheme: InputDecorationTheme(
           border: const OutlineInputBorder(),
