@@ -28,7 +28,7 @@ Add the code below to pubspec.ymal and run "flutter pub get" at terminal.
 ```ymal
 track_theme:
     git:
-      url: https://github.com/LiewJY/track_theme.git
+      url: https://github.com/LiewJY/spend_track_theme.git
       ref:
         main
 ```
