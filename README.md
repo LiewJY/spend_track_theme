@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-This is a theme file for an upcoming flutter expenses management mobile application.
+This is a theme file for a flutter expenses management mobile application; spend track.
 
 ## Features
 
